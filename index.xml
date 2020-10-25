@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studio23</title>
+    <link>//studio23.london/</link>
+    <description>Recent content on Studio23</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    
+	<atom:link href="//studio23.london/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Block Colours</title>
+      <link>//studio23.london/products/blocks-large/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//studio23.london/products/blocks-large/</guid>
+      <description>&lt;p&gt;A physical wooden sculpture containing 196 blocks. The colours in this piece were selected by our secret algorithm.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Block Colours</title>
+      <link>//studio23.london/products/blocks-medium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//studio23.london/products/blocks-medium/</guid>
+      <description>&lt;p&gt;A physical wooden sculpture containing 64 blocks. The colours in this piece were selected by our secret algorithm.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2x4</title>
+      <link>//studio23.london/products/blocks-small/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//studio23.london/products/blocks-small/</guid>
+      <description>&lt;p&gt;A physical wooden sculpture containing 8 blocks. The colours in this piece were selected by our secret algorithm.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flower 1</title>
+      <link>//studio23.london/products/inks-flower1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//studio23.london/products/inks-flower1/</guid>
+      <description>&lt;p&gt;Hand crafted alcohol ink inspired by the organic shapes within nature.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flower 2</title>
+      <link>//studio23.london/products/inks-flower2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//studio23.london/products/inks-flower2/</guid>
+      <description>&lt;p&gt;Hand crafted alcohol ink inspired by the organic shapes within nature.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flower 3</title>
+      <link>//studio23.london/products/inks-flower3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//studio23.london/products/inks-flower3/</guid>
+      <description>&lt;p&gt;Hand crafted alcohol ink inspired by the organic shapes within nature.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
