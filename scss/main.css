@@ -221,10 +221,13 @@ header {
   flex-direction: row;
   justify-content: space-between; }
   header .logo {
+    color: #fff;
     font-size: 25px;
     line-height: 1.2;
     font-weight: 700;
     margin: 0 0 24px; }
+    header .logo:visited {
+      color: #fff; }
   header .strapline {
     color: #a0a0a0;
     font-size: 13px;
